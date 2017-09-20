@@ -1,0 +1,268 @@
+[27-Sep-2015 02:05:21 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/vladitg/public_html/teleferico/application/views/includes/header.php on line 32
+[27-Sep-2015 02:05:57 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/vladitg/public_html/teleferico/application/views/includes/header.php on line 32
+[27-Sep-2015 02:06:13 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/vladitg/public_html/teleferico/application/views/includes/header.php on line 34
+[27-Sep-2015 02:06:54 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/vladitg/public_html/teleferico/application/views/includes/header.php on line 34
+[27-Sep-2015 02:19:22 UTC] PHP Fatal error:  Function name must be a string in /home/vladitg/public_html/teleferico/application/models/Usuario.php on line 18
+[27-Sep-2015 04:55:33 UTC] PHP Parse error:  syntax error, unexpected '$pdf' (T_VARIABLE) in /home/vladitg/public_html/teleferico/application/controllers/Tickets.php on line 142
+[27-Sep-2015 05:15:25 UTC] PHP Parse error:  syntax error, unexpected '$pdf' (T_VARIABLE) in /home/vladitg/public_html/teleferico/application/controllers/Tickets.php on line 142
+[27-Sep-2015 05:46:11 UTC] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/vladitg/public_html/teleferico/application/controllers/Tickets.php on line 89
+[27-Sep-2015 06:35:58 UTC] PHP Fatal error:  Call to a member function format() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Tickets.php on line 157
+[27-Sep-2015 06:36:43 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/vladitg/public_html/teleferico/application/controllers/Tickets.php on line 157
+[27-Sep-2015 06:38:25 UTC] PHP Parse error:  syntax error, unexpected '_format' (T_STRING) in /home/vladitg/public_html/teleferico/application/controllers/Tickets.php on line 157
+[27-Sep-2015 06:38:45 UTC] PHP Parse error:  syntax error, unexpected '_format' (T_STRING) in /home/vladitg/public_html/teleferico/application/controllers/Tickets.php on line 157
+[27-Sep-2015 06:46:29 UTC] PHP Parse error:  syntax error, unexpected '$detalleticket' (T_VARIABLE) in /home/vladitg/public_html/teleferico/application/controllers/Tickets.php on line 157
+[27-Sep-2015 06:47:31 UTC] PHP Parse error:  syntax error, unexpected '$detalleticket' (T_VARIABLE) in /home/vladitg/public_html/teleferico/application/controllers/Tickets.php on line 157
+[28-Sep-2015 04:21:59 UTC] PHP Parse error:  syntax error, unexpected '!=' (T_IS_NOT_EQUAL) in /home/vladitg/public_html/teleferico/application/controllers/Tickets.php on line 97
+[29-Sep-2015 04:56:41 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/vladitg/public_html/teleferico/application/models/Usuarios.php on line 7
+[29-Sep-2015 04:59:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/vladitg/public_html/teleferico/application/controllers/Usuarios.php on line 34
+[29-Sep-2015 04:59:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/vladitg/public_html/teleferico/application/controllers/Usuarios.php on line 34
+[29-Sep-2015 04:59:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/vladitg/public_html/teleferico/application/controllers/Usuarios.php on line 34
+[29-Sep-2015 04:59:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/vladitg/public_html/teleferico/application/controllers/Usuarios.php on line 34
+[29-Sep-2015 04:59:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/vladitg/public_html/teleferico/application/controllers/Usuarios.php on line 34
+[29-Sep-2015 04:59:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/vladitg/public_html/teleferico/application/controllers/Usuarios.php on line 34
+[29-Sep-2015 04:59:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/vladitg/public_html/teleferico/application/controllers/Usuarios.php on line 34
+[29-Sep-2015 05:44:21 UTC] PHP Parse error:  syntax error, unexpected '''' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/vladitg/public_html/teleferico/application/controllers/Usuarios.php on line 30
+[29-Sep-2015 05:44:23 UTC] PHP Parse error:  syntax error, unexpected '''' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/vladitg/public_html/teleferico/application/controllers/Usuarios.php on line 30
+[29-Sep-2015 19:38:11 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 19:38:15 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 19:39:13 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 19:39:15 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 19:39:26 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 19:39:27 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 19:39:27 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 19:39:28 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 19:39:28 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 19:39:28 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 19:39:28 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 19:42:35 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 19:45:04 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 19:45:05 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 19:45:06 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 19:45:06 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 19:46:29 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 19:46:29 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 19:46:29 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 19:46:36 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 20:01:40 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 20:01:41 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 20:01:42 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 20:01:46 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 20:01:47 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 20:01:47 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 20:01:47 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 20:01:49 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 20:01:49 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 20:01:49 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 20:01:50 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 20:10:16 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 20:10:22 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 20:14:47 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 20:15:47 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 20:15:48 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 20:15:48 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 20:15:48 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 20:15:48 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 20:15:51 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 20:32:28 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 20:37:05 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 20:37:06 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 20:37:06 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 20:38:33 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 20:44:30 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 20:44:31 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 20:44:31 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 20:46:19 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 20:47:40 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 21:04:20 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 21:04:21 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 21:04:22 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 21:04:22 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 21:04:23 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 21:04:23 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 21:04:23 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 21:04:23 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 21:04:23 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 21:04:23 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 21:04:24 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 21:14:10 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 21:18:42 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 21:18:51 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 21:18:52 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 21:18:53 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 21:18:53 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 21:18:53 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 21:18:54 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 21:18:54 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 21:18:54 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 21:18:54 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 21:18:54 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 21:18:55 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 21:18:55 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 21:18:55 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 21:18:56 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 21:18:56 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 21:18:57 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 21:18:57 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 21:18:57 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 21:18:57 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 21:22:30 UTC] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 6
+[29-Sep-2015 21:23:14 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 27
+[29-Sep-2015 21:23:31 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 21:23:32 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 21:24:15 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 21:24:16 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 21:24:16 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 21:24:17 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 21:24:17 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 21:24:17 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 21:24:17 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 21:25:01 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 21:25:01 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 21:25:02 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 21:25:02 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 21:31:59 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 22:31:18 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 22:54:36 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 28
+[29-Sep-2015 22:55:32 UTC] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 6
+[29-Sep-2015 22:55:36 UTC] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 6
+[29-Sep-2015 22:55:37 UTC] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 6
+[29-Sep-2015 22:55:37 UTC] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 6
+[29-Sep-2015 22:55:38 UTC] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 6
+[29-Sep-2015 22:55:38 UTC] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 6
+[29-Sep-2015 22:55:38 UTC] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 6
+[29-Sep-2015 22:55:39 UTC] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 6
+[29-Sep-2015 22:55:39 UTC] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 6
+[29-Sep-2015 22:55:40 UTC] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 6
+[29-Sep-2015 22:55:41 UTC] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 6
+[29-Sep-2015 22:55:41 UTC] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 6
+[29-Sep-2015 22:55:41 UTC] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 6
+[29-Sep-2015 22:55:42 UTC] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 6
+[29-Sep-2015 22:55:42 UTC] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 6
+[29-Sep-2015 22:55:42 UTC] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 6
+[29-Sep-2015 22:55:43 UTC] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 6
+[29-Sep-2015 22:55:43 UTC] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 6
+[29-Sep-2015 22:55:43 UTC] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 6
+[29-Sep-2015 22:55:44 UTC] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 6
+[29-Sep-2015 22:55:44 UTC] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 6
+[29-Sep-2015 22:55:44 UTC] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Precios.php on line 6
+[30-Sep-2015 03:49:42 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting '{' in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 3
+[30-Sep-2015 03:49:56 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting '{' in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 3
+[30-Sep-2015 04:17:24 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/vladitg/public_html/teleferico/application/models/Venta.php on line 17
+[30-Sep-2015 04:18:00 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/vladitg/public_html/teleferico/application/models/Detalleventa.php on line 15
+[30-Sep-2015 04:18:29 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/vladitg/public_html/teleferico/application/models/Detalleventa.php on line 16
+[30-Sep-2015 04:18:30 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/vladitg/public_html/teleferico/application/models/Detalleventa.php on line 16
+[30-Sep-2015 04:18:38 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/vladitg/public_html/teleferico/application/models/Detalleventa.php on line 16
+[30-Sep-2015 04:27:02 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 32
+[30-Sep-2015 05:06:00 UTC] PHP Parse error:  syntax error, unexpected '.', expecting variable (T_VARIABLE) or '$' in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 50
+[30-Sep-2015 05:29:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 12
+[30-Sep-2015 06:25:20 UTC] PHP Parse error:  syntax error, unexpected ''<td>'' (T_CONSTANT_ENCAPSED_STRING) in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 85
+[30-Sep-2015 06:26:19 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 86
+[30-Sep-2015 06:26:37 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 86
+[30-Sep-2015 06:28:30 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 86
+[30-Sep-2015 06:28:31 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 86
+[30-Sep-2015 16:49:00 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 82
+[30-Sep-2015 16:49:56 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 82
+[30-Sep-2015 16:49:57 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 82
+[30-Sep-2015 16:49:58 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 82
+[30-Sep-2015 16:49:58 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 82
+[30-Sep-2015 16:49:58 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 82
+[30-Sep-2015 16:49:59 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 82
+[30-Sep-2015 16:49:59 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 82
+[30-Sep-2015 16:54:58 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 82
+[30-Sep-2015 16:54:59 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 82
+[30-Sep-2015 16:55:21 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 82
+[30-Sep-2015 16:55:22 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 82
+[30-Sep-2015 16:56:21 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 81
+[30-Sep-2015 16:56:22 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 81
+[30-Sep-2015 16:56:23 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 81
+[30-Sep-2015 16:56:24 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 81
+[30-Sep-2015 16:56:55 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 81
+[30-Sep-2015 16:56:58 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 81
+[30-Sep-2015 16:56:58 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 81
+[30-Sep-2015 16:58:38 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 81
+[30-Sep-2015 16:58:39 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 81
+[30-Sep-2015 16:58:39 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 81
+[30-Sep-2015 16:58:40 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 81
+[30-Sep-2015 16:58:40 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 81
+[30-Sep-2015 16:58:41 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 81
+[30-Sep-2015 16:58:41 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 81
+[30-Sep-2015 16:58:41 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 81
+[30-Sep-2015 16:58:41 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 81
+[30-Sep-2015 16:58:42 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 81
+[30-Sep-2015 17:01:51 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 81
+[30-Sep-2015 17:01:53 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 81
+[30-Sep-2015 17:01:53 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 81
+[30-Sep-2015 17:01:54 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 81
+[30-Sep-2015 17:01:55 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 81
+[30-Sep-2015 17:01:55 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 81
+[30-Sep-2015 17:01:55 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 81
+[30-Sep-2015 17:01:55 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 81
+[30-Sep-2015 17:01:56 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 81
+[30-Sep-2015 17:01:56 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 81
+[30-Sep-2015 17:01:56 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 81
+[30-Sep-2015 17:01:57 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 81
+[30-Sep-2015 17:01:57 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 81
+[30-Sep-2015 17:01:57 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 81
+[30-Sep-2015 17:01:58 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 81
+[30-Sep-2015 17:01:58 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 81
+[30-Sep-2015 17:02:20 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 81
+[30-Sep-2015 17:02:20 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 81
+[30-Sep-2015 17:02:21 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 81
+[30-Sep-2015 17:02:21 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 81
+[30-Sep-2015 17:02:21 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 81
+[30-Sep-2015 17:48:00 UTC] PHP Fatal error:  Call to a member function format() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 86
+[30-Sep-2015 17:48:28 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 86
+[30-Sep-2015 17:48:29 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 86
+[30-Sep-2015 17:48:30 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 86
+[30-Sep-2015 17:49:59 UTC] PHP Fatal error:  Call to a member function format() on a non-object in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 87
+[30-Sep-2015 18:18:48 UTC] PHP Fatal error:  Call to undefined function format() in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 86
+[30-Sep-2015 18:18:59 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 86
+[30-Sep-2015 18:19:01 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 86
+[01-Oct-2015 02:04:43 UTC] PHP Parse error:  syntax error, unexpected 'usuario' (T_STRING) in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 17
+[01-Oct-2015 02:04:52 UTC] PHP Parse error:  syntax error, unexpected 'usuario' (T_STRING) in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 17
+[01-Oct-2015 02:04:53 UTC] PHP Parse error:  syntax error, unexpected 'usuario' (T_STRING) in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 17
+[01-Oct-2015 02:04:54 UTC] PHP Parse error:  syntax error, unexpected 'usuario' (T_STRING) in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 17
+[01-Oct-2015 05:14:51 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/vladitg/public_html/teleferico/application/controllers/Tickets.php on line 397
+[01-Oct-2015 05:18:07 UTC] PHP Fatal error:  Cannot access empty property in /home/vladitg/public_html/teleferico/application/controllers/Tickets.php on line 397
+[01-Oct-2015 05:18:13 UTC] PHP Fatal error:  Cannot access empty property in /home/vladitg/public_html/teleferico/application/controllers/Tickets.php on line 397
+[01-Oct-2015 05:25:21 UTC] PHP Fatal error:  Cannot access empty property in /home/vladitg/public_html/teleferico/application/controllers/Tickets.php on line 361
+[01-Oct-2015 05:25:36 UTC] PHP Fatal error:  Cannot access empty property in /home/vladitg/public_html/teleferico/application/controllers/Tickets.php on line 361
+[02-Oct-2015 04:29:51 UTC] PHP Fatal error:  Call to undefined method CI_Pagination::generate() in /home/vladitg/public_html/teleferico/application/controllers/Paginacion.php on line 55
+[02-Oct-2015 04:35:33 UTC] PHP Fatal error:  Call to undefined method CI_Table::generatae() in /home/vladitg/public_html/teleferico/application/controllers/Paginacion.php on line 55
+[02-Oct-2015 17:19:04 UTC] PHP Parse error:  syntax error, unexpected '')'' (T_CONSTANT_ENCAPSED_STRING) in /home/vladitg/public_html/teleferico/application/models/Venta.php on line 23
+[02-Oct-2015 20:41:37 UTC] PHP Parse error:  syntax error, unexpected 'obtenpag' (T_STRING), expecting variable (T_VARIABLE) in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 139
+[02-Oct-2015 22:04:52 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 21
+[02-Oct-2015 22:05:53 UTC] PHP Fatal error:  Can't use method return value in write context in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 128
+[02-Oct-2015 22:07:37 UTC] PHP Parse error:  syntax error, unexpected '(' in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 129
+[03-Oct-2015 02:22:28 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 122
+[03-Oct-2015 02:25:38 UTC] PHP Parse error:  syntax error, unexpected ''Subtotal:' (T_ENCAPSED_AND_WHITESPACE) in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 82
+[03-Oct-2015 02:30:07 UTC] PHP Parse error:  syntax error, unexpected ''Subtotal' (T_ENCAPSED_AND_WHITESPACE) in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 82
+[03-Oct-2015 02:44:20 UTC] PHP Parse error:  syntax error, unexpected ''Subtotal' (T_ENCAPSED_AND_WHITESPACE) in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 82
+[03-Oct-2015 02:53:43 UTC] PHP Parse error:  syntax error, unexpected ''Subtotal' (T_ENCAPSED_AND_WHITESPACE) in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 82
+[03-Oct-2015 03:50:41 UTC] PHP Fatal error:  Cannot redeclare Tickets::reporte() in /home/vladitg/public_html/teleferico/application/controllers/Tickets.php on line 413
+[03-Oct-2015 03:53:59 UTC] PHP Fatal error:  Cannot redeclare Tickets::reporte() in /home/vladitg/public_html/teleferico/application/controllers/Tickets.php on line 413
+[03-Oct-2015 03:54:52 UTC] PHP Fatal error:  Cannot redeclare Tickets::reporte() in /home/vladitg/public_html/teleferico/application/controllers/Tickets.php on line 413
+[03-Oct-2015 03:57:10 UTC] PHP Fatal error:  Call to undefined method DetalleTickets::get_detalle_tickets() in /home/vladitg/public_html/teleferico/application/controllers/Tickets.php on line 443
+[03-Oct-2015 03:57:19 UTC] PHP Fatal error:  Call to undefined method DetalleTickets::get_detalle_tickets() in /home/vladitg/public_html/teleferico/application/controllers/Tickets.php on line 443
+[03-Oct-2015 03:57:28 UTC] PHP Fatal error:  Call to undefined method DetalleTickets::get_detalle_tickets() in /home/vladitg/public_html/teleferico/application/controllers/Tickets.php on line 443
+[03-Oct-2015 04:01:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/vladitg/public_html/teleferico/application/models/Detalletickets.php on line 11
+[03-Oct-2015 04:49:59 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/vladitg/public_html/teleferico/application/models/Detalletickets.php on line 62
+[03-Oct-2015 05:18:42 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting identifier (T_STRING) in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 130
+[03-Oct-2015 05:19:19 UTC] PHP Fatal error:  Class 'Barcode' not found in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 136
+[03-Oct-2015 05:47:08 UTC] PHP Parse error:  syntax error, unexpected ''Sub' (T_ENCAPSED_AND_WHITESPACE) in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 82
+[03-Oct-2015 05:47:49 UTC] PHP Parse error:  syntax error, unexpected ''Sub' (T_ENCAPSED_AND_WHITESPACE) in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 82
+[03-Oct-2015 05:54:09 UTC] PHP Parse error:  syntax error, unexpected ''Sub' (T_ENCAPSED_AND_WHITESPACE) in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 82
+[03-Oct-2015 05:54:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 168
+[03-Oct-2015 05:56:42 UTC] PHP Parse error:  syntax error, unexpected ''Sub' (T_ENCAPSED_AND_WHITESPACE) in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 82
+[03-Oct-2015 06:00:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 169
+[03-Oct-2015 06:01:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 12
+[03-Oct-2015 06:01:59 UTC] PHP Parse error:  syntax error, unexpected ''Sub' (T_ENCAPSED_AND_WHITESPACE) in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 82
+[03-Oct-2015 06:03:01 UTC] PHP Parse error:  syntax error, unexpected ''Sub' (T_ENCAPSED_AND_WHITESPACE) in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 82
+[03-Oct-2015 06:04:14 UTC] PHP Parse error:  syntax error, unexpected ''Fecha' (T_ENCAPSED_AND_WHITESPACE) in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 55
+[03-Oct-2015 06:05:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 12
+[03-Oct-2015 06:06:24 UTC] PHP Parse error:  syntax error, unexpected ''Sub' (T_ENCAPSED_AND_WHITESPACE) in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 82
+[03-Oct-2015 06:06:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 168
+[08-Oct-2015 03:41:10 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 228
+[08-Oct-2015 03:41:21 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 228
+[08-Oct-2015 03:44:41 UTC] PHP Fatal error:  Class 'Barcode' not found in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 215
+[08-Oct-2015 03:46:22 UTC] PHP Fatal error:  Class 'Barcode' not found in /home/vladitg/public_html/teleferico/application/controllers/Ventas.php on line 216
